@@ -1,4 +1,4 @@
-# Project: Global Superstore - Strategic Market Expansion & Product Selection
+# Project 1: Global Superstore - Strategic Market Expansion & Product Selection
 
 ## 1. Dataset
 Dataset stores sales information of some products of a company worldwide
@@ -30,3 +30,4 @@ Please see the Power BI file "**Dashboard.pbix**" above for more details.
 ## 5. Insights and Recommendations
 
 ![image](https://github.com/user-attachments/assets/952adb67-1047-4e4d-8b78-ba850ab12c42)
+
